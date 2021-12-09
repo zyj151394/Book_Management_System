@@ -49,4 +49,5 @@ Javase swing + mysql 小项目
 用户管理 
 ![user_management](https://user-images.githubusercontent.com/85631111/145432996-010e02b1-75c8-4d1a-a831-ecc1c042b358.JPG)
 
-整个项目用时三天，在设计开发过程中学到了很多的东西。这份收获是独一无二的。
+侵删！！！！
+仅供自己学习！！！！
